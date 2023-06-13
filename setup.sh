@@ -223,7 +223,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "=====================-[ SCRIPT ANDY YUDA TUNNEL ]-===================="
+echo "=====================-[ SCRIPT AWAN BEBAS TUNNEL ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
