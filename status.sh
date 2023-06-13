@@ -133,7 +133,7 @@ clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e "             ${YELLOW}(${NC}${GREEN} STATUS SERVICE INFORMATION ${NC}${YELLOW})${NC}"
 echo -e "           OWNER : ${GREEN} BTR ${NC}${YELLOW}(${NC} ${GREEN} SC BY AWAN BEBAS  ${NC}${YELLOW})${NC}"
-echo -e "       © Copyright By ANDY TUNNEL ${YELLOW}(${NC} 2022-2023 ${YELLOW})${NC}"
+echo -e "       © Copyright By AwanBebas TUNNEL ${YELLOW}(${NC} 2022-2023 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 echo -e "${RED_BG}                     Sytem Information                    ${NC}"
