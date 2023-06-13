@@ -7,7 +7,7 @@
  sub=$(</dev/urandom tr -dc a-z | head -c4) 
  DOMAIN=klmpk.my.id 
  SUB_DOMAIN=${sub}.klmpk.my.id 
- CF_ID=andyyuda41@gmail.com 
+ CF_ID=awanbebas2023@gmail.com 
  CF_KEY=0d626234700bad388d6d07b49c42901445d1c 
  set -euo pipefail 
  IP=$(curl -sS ifconfig.me); 
