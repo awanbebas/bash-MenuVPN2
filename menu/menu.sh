@@ -267,10 +267,10 @@ echo -e "${BIYellow}□ License Limit       = ORDER ${GREEN}( 082131861788 )${NC
 echo -e "${BIYellow}□ AutoScript By Dev   = Wak ${GREEN}( AndyYuda )${NC}"
 
 echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
-echo -e "${BICyan} │         ${BIWhite}${UWhite}AWANBEBAS TUNNELING      │${NC}"
+echo -e "${BICyan} │         ${BIWhite}${UWhite}AWANBEBAS TUNNELING     ${BICyan}  │${NC}"
 echo -e "${BICyan} │                                                     │${NC}"
-echo -e " ${BICyan}│  ${BICyan}Use Core        :  ${BIPurple}XRAY        │${NC}"
-echo -e " ${BICyan}│  ${BICyan}IP-VPS          :  ${BIYellow}$IPVPS      │${NC}"
+echo -e " ${BICyan}│  ${BICyan}Use Core        :  ${BIPurple}XRAY      ${BICyan}   │${NC}"
+echo -e " ${BICyan}│  ${BICyan}IP-VPS          :  ${BIYellow}$IPVPS   ${BICyan}│${NC}"
 echo -e " ${BICyan}└─────────────────────────────────────────────────────┘${NC}"
 
 echo -e "${GREEN}INGATLAH KAWAN DILANGIT MASIH ADA LANGIT JAGAN LUPA DIRI${NC}" 
